@@ -9,3 +9,9 @@ ABC Shop, an online retail business, has observed:
 -	Declining Conversion Rates: Fewer site visitors are making purchases.
 - High Marketing Spend: Increased investment not yielding expected returns.
 -	Unanalysed Customer Feedback: Lack of insights from customer reviews and social media comments.
+
+## Dataset
+-	Data: Internal marketing campaign performance data, customer reviews, and social media comments.
+-	Dataset: <a href="https://github.com/DeviSasankan/Data-Analysis-Project/blob/main/MarketingAnalytics.bak"> Dataset </a>
+
+
